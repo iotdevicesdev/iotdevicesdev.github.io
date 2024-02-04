@@ -1,3 +1,8 @@
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+</head>
+
 ![image](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/088e57de-e95d-4e7f-8697-70f8bdd2b23c)
 
 Hello, buddy! Welcome to one of our websites. 
