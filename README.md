@@ -14,7 +14,10 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 ### Attribution
 The attribution is specified in the footnote of the page [^1][^2] 
 
-Designed by IoT-devices, LLC | Manufacturer for IoT - From simple DIY modules to complex IoT devices - Proudly made in Kyiv, Ukraine 
+---
+Designed by IoT-devices, LLC - Manufacturer for IoT. From simple DIY modules to complex IoT devices 
+
+Proudly made in Kyiv, Ukraine 
 
 [^1]: [pixel-perfect](https://www.flaticon.com/authors/pixel-perfect) 
 
