@@ -2,7 +2,7 @@
 
 Hello, buddy! Welcome to one of our websites. 
 
-This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/)[^1] is dedicated to the development and coverage of related [publications](https://go.iot-devices.com.ua/blog) and [examples](https://go.iot-devices.com.ua/github) for the products that the company produces and sells on [website's shop](https://go.iot-devices.com.ua/shop), [Tindie](https://go.iot-devices.com.ua/tindie) and [Etsy](https://go.iot-devices.com.ua/etsy).
+This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) [^1] is dedicated to the development and coverage of related [publications](https://go.iot-devices.com.ua/blog) and [examples](https://go.iot-devices.com.ua/github) for the products that the company produces and sells on [website's shop](https://go.iot-devices.com.ua/shop), [Tindie](https://go.iot-devices.com.ua/tindie) and [Etsy](https://go.iot-devices.com.ua/etsy).
 
 ### Follow us on social media
 
