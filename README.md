@@ -6,18 +6,6 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/)[^1] is 
 
 ### Follow us on social media
 
-<a href="https://go.iot-devices.com.ua/twitter"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4908696e-fdd8-47c7-b339-9fa149e53f53" alt="image" width="4%" height="auto"></a>
-
-<a href="https://go.iot-devices.com.ua/facebook"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d2b53e90-3123-4986-a683-ab5592fd80b1" alt="image" width="5%" height="auto"></a>
-
-<a href="https://go.iot-devices.com.ua/github"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/137bcabf-9341-403e-b223-4c6672970ff0" alt="image" width="5%" height="auto"></a>
-
-<a href="https://go.iot-devices.com.ua/youtube"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4bb6e5c8-e29e-487b-8599-f275bc029832" alt="image" width="5%" height="auto"></a>
-
-<a href="https://go.iot-devices.com.ua/hackaday"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/bc226584-8a61-45bc-8a0a-2d6a5e769274" alt="image" width="7%" height="auto"></a>
-
-<a href="https://go.iot-devices.com.ua/medium"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/8d586365-a9c1-41b1-aa52-93cee72301bb" alt="image" width="5%" height="auto"></a>
-
 | X (Twitter)                | Facebook                | GitHub                | YouTube                | Hackaday                | Medium                |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | <a href="https://go.iot-devices.com.ua/twitter"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4908696e-fdd8-47c7-b339-9fa149e53f53" alt="image" width="22%" height="auto"></a>           |  <a href="https://go.iot-devices.com.ua/facebook"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d2b53e90-3123-4986-a683-ab5592fd80b1" alt="image" width="25%" height="auto"></a>                | <a href="https://go.iot-devices.com.ua/github"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/137bcabf-9341-403e-b223-4c6672970ff0" alt="image" width="25%" height="auto"></a>             | <a href="https://go.iot-devices.com.ua/youtube"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4bb6e5c8-e29e-487b-8599-f275bc029832" alt="image" width="25%" height="auto"></a>            | <a href="https://go.iot-devices.com.ua/hackaday"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/bc226584-8a61-45bc-8a0a-2d6a5e769274" alt="image" width="25%" height="auto"></a>            | <a href="https://go.iot-devices.com.ua/medium"><img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/8d586365-a9c1-41b1-aa52-93cee72301bb" alt="image" width="25%" height="auto"></a>           |
