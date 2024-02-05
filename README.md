@@ -19,51 +19,64 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 
 #### Radiation detection applications
 
-| GGreg20_V3 Geiger counter |
+| GGreg20_V3 |
 | :-------------: |
-| Product Page |
-| Product Card |
-| Tech Drawing |
-| Datasheet |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/1327a402-9f11-4790-a386-6cf046d2c6ad" alt="ESP12.OLED_V1 universal MCU board image" width="20%" height="auto"><br> |
+| DIY Geiger counter radiation detector |
+| [Product Page](https://go.iot-devices.com.ua/ggreg20_v3) |
+| [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/6853133f-5816-4ed2-acc1-fe9409e06359) |
+| [Tech Drawing](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/cfe8d02d-b2cc-4afa-8f50-044d8fb34532) |
+| [Datasheet](https://iot-devices.com.ua/wp-content/uploads/2022/02/ggreg20_v3-datasheet-eng.pdf) |
+| [Related Stories](https://iot-devices.com.ua/en/?s=ggreg20_v3) |
 
-| GCemu20_V1 Geiger counter emulator |
+| GCemu20_V1 |
 | :-------------: |
+| TRNG based Geiger counter emulator |
 | Product Page |
 | Product Card |
 | Tech Drawing |
 | Datasheet |
+| Related Stories |
 
-| DCDC_3V3_400V_V1 high voltage converter |
+| DCDC_3V3_400V_V1 |
 | :-------------: |
+| High voltage converter |
 | Product Page |
 | Product Card |
 | Tech Drawing |
 | Datasheet |
+| Related Stories |
 
 #### I2C applications
 
-| I2CUI4_V1 I2C 5-Key Keypad |
+| I2CUI4_V1 |
 | :-------------: |
+| I2C 5-Key Keypad with RGB LED, Buzzer |
 | Product Page |
 | Product Card |
 | Tech Drawing |
 | Datasheet |
+| Related Stories |
 
-| I2CHUB_V1 I2C Bus splitter |
+| I2CHUB_V1 |
 | :-------------: |
+| I2C Bus 5-port splitter with power supply port |
 | Product Page |
 | Product Card |
 | Tech Drawing |
 | Datasheet |
+| Related Stories |
 
 #### Charity, Technology art and Geek projects
 
-| GGreg20_ES Geiger counter epoxy souvenir |
+| GGreg20_ES |
 | :-------------: |
+| Geiger counter epoxy souvenir and geek gift |
 | Product Page |
 | Product Card |
 | Tech Drawing |
 | Datasheet |
+| Related Stories |
 
 
 ### Follow us on social media
