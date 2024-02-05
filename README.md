@@ -6,6 +6,7 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 
 ### Products
 #### MCU boards
+
 <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d2a8b987-e566-4a53-89ca-94a2265fcdfb" alt="ESP12.OLED_V1 universal MCU board image" width="20%" height="auto"><br>
 | ESP12.OLED_V1 MCU board with ESP8266, 0.96″ OLED and RGB LED |
 | :-------------: |
@@ -16,6 +17,7 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 | [Datasheet](https://iot-devices.com.ua/wp-content/uploads/2023/02/finished-esp12_oled_v1-product-description-eng.pdf) |
 
 #### Radiation detection applications
+
 | GGreg20_V3 Geiger counter |
 | :-------------: |
 | Product Page |
@@ -38,6 +40,7 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 | Datasheet |
 
 #### I2C applications
+
 | I2CUI4_V1 I2C 5-Key Keypad |
 | :-------------: |
 | Product Page |
@@ -53,6 +56,7 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 | Datasheet |
 
 #### Charity, Technology art and Geek projects
+
 | GGreg20_ES Geiger counter epoxy souvenir |
 | :-------------: |
 | Product Page |
