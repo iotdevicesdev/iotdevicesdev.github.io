@@ -8,6 +8,7 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 #### MCU boards
 
 <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d2a8b987-e566-4a53-89ca-94a2265fcdfb" alt="ESP12.OLED_V1 universal MCU board image" width="20%" height="auto"><br>
+
 | ESP12.OLED_V1 MCU board with ESP8266, 0.96″ OLED and RGB LED |
 | :-------------: |
 | [Product Page](https://go.iot-devices.com.ua/esp12_oled_v1) |
