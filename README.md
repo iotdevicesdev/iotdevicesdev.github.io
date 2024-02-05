@@ -9,8 +9,10 @@ This site of [IoT-devices, LLC](https://iot-devices.com.ua/en/contacts/) is dedi
 
 <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d2a8b987-e566-4a53-89ca-94a2265fcdfb" alt="ESP12.OLED_V1 universal MCU board image" width="20%" height="auto"><br>
 
-| ESP12.OLED_V1 MCU board with ESP8266, 0.96″ OLED and RGB LED |
+| ESP12.OLED_V1 |
 | :-------------: |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d2a8b987-e566-4a53-89ca-94a2265fcdfb" alt="ESP12.OLED_V1 universal MCU board image" width="20%" height="auto"><br> |
+| MCU board with ESP8266, 0.96″ OLED and RGB LED |
 | [Product Page](https://go.iot-devices.com.ua/esp12_oled_v1) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4fe30054-0f4b-4779-94c4-90d2047157a4) |
 | [Tech Drawing](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/37c02a42-7597-4dc0-bf98-5f45cf2aa7d4) |
