@@ -124,7 +124,7 @@ No cabling – No soldering – No drivers – No coding
 
 | Part Number: GGreg20_ES |
 | :-------------: |
-| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/413ba065-9cdf-46ca-95f8-c83271b7bb8a" alt="GGreg20_ES Geiger counter epoxy souvenir and geek gift image" width="80%" height="auto"><br> |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/16b58b9b-04a1-4d16-bdf8-3a3de4c8f587" alt="GGreg20_ES Geiger counter epoxy souvenir and geek gift image" width="80%" height="auto"><br> |
 | Geiger counter epoxy souvenir and geek gift |
 | [Product Page](https://go.iot-devices.com.ua/ggreg20_es) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/13258775-c1d9-4bed-8190-2337586f7afa) |
