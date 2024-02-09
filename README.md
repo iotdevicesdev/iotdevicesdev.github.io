@@ -45,7 +45,7 @@ This module is useful for creating smart measurement devices for determining the
 
 
 ### GCemu20_V1 - Geiger counter emulator
-Emulator of radioactive particle detector is a hardware-software electronic module designed to emulate the counter of ionizing radiation level. For this purpose the emulator includes a pulse counting output to the main controller. Arduino, ESP8266, ESP32, Raspberry Pi, STM32 and others can be used as host controllers.
+Emulator of radioactive particle detector is a hardware-software electronic module designed to emulate the counter of ionizing radiation level. For this purpose the emulator includes a pulse counting output to the main controller. Arduino, ESP8266, ESP32, Raspberry Pi, STM32 and others can be used as host controllers. GCemu20_V1 is based on ESP12.OLED_V1 hardware but with its own Geiger counter emulator software application.
 
 The simulated radiation level and operation mode of the emulator are indicated by light signals on the built-in RGB-LED.
 
@@ -56,7 +56,6 @@ The simulated radiation level and operation mode of the emulator are indicated b
 | ESP8266 TRNG based Geiger counter emulator |
 | [Product Page](https://go.iot-devices.com.ua/gcemu20_v1) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/8eefa4c0-6af7-45b4-a92f-a9459e28aec5) |
-| Tech Drawing |
 | [Datasheet](https://iot-devices.com.ua/wp-content/uploads/2023/03/final-gcemu20_v1-datasheet-eng.pdf) |
 | [Related Stories](https://iot-devices.com.ua/en/?s=gcemu20_v1) |
 
@@ -71,9 +70,8 @@ devices for protection against mosquitoes, ozonizers, etc.
 | Part Number: DCDC_3V3_400V_V1 |
 | :-------------: |
 | High voltage converter |
-| Product Page |
-| Product Card |
-| Tech Drawing |
+| [Product Page](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1) |
+| [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/955460d8-3992-420a-b2cf-366b69064d7b) |
 | [Datasheet](https://iot-devices.com.ua/wp-content/uploads/2023/02/dcdc_3v3_400v_v1_product_description-eng.pdf) |
 | [Related Stories](https://iot-devices.com.ua/en/?s=dcdc_3v3_400v_v1) |
 
@@ -89,9 +87,9 @@ The module connects to the main controller via a 4-wire I2C bus interface and pr
 | Part Number: I2CUI4_V1 |
 | :-------------: |
 | I2C 5-Key Keypad with RGB LED, Buzzer |
-| Product Page |
-| Product Card |
-| Tech Drawing |
+| [Product Page](https://go.iot-devices.com.ua/i2cui4_v1) |
+| [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/c7d71fad-a475-4a22-b4ea-3569c55be708) |
+| [Tech Drawing](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4bec5576-2814-49c1-9ef0-227c06a8b746) |
 | [Datasheet](https://iot-devices.com.ua/wp-content/uploads/2023/02/i2cui4_v1-product-description-eng.pdf) |
 | [Related Stories](https://iot-devices.com.ua/en/?s=i2cui4_v1) |
 
@@ -107,9 +105,8 @@ Multiple I2CHUB devices can be freely cascaded within the limits allowed by the 
 | Part Number: I2CHUB_V1 |
 | :-------------: |
 | I2C Bus 6-port splitter with power supply port |
-| Product Page |
-| Product Card |
-| Tech Drawing |
+| [Product Page](https://go.iot-devices.com.ua/i2chub_v1) |
+| [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/955460d8-3992-420a-b2cf-366b69064d7b) |
 | [Datasheet](https://iot-devices.com.ua/wp-content/uploads/2023/02/i2chub_v1-product-description-and-datasheet-eng.pdf) |
 | [Related Stories](https://iot-devices.com.ua/en/?s=i2chub_v1) |
 
@@ -123,10 +120,9 @@ GGreg20_ES (souvenir Geiger counter) is an unusual artistic product: on the one 
 | Part Number: GGreg20_ES |
 | :-------------: |
 | Geiger counter epoxy souvenir and geek gift |
-| Product Page |
-| Product Card |
-| Tech Drawing |
-| Datasheet |
+| [Product Page](https://go.iot-devices.com.ua/ggreg20_es) |
+| [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/13258775-c1d9-4bed-8190-2337586f7afa) |
+| [Tech Drawing](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/c6bda649-a1e6-46e4-b807-025d0690551b) |
 | [Related Stories](https://iot-devices.com.ua/en/?s=ggreg20_es) |
 
 
