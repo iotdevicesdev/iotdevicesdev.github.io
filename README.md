@@ -79,14 +79,16 @@ devices for protection against mosquitoes, ozonizers, etc.
 ## I2C applications
 
 ### I2CUI4_V1 - user interface I2C keypad with 5-keys, RGB LED and buzzer powered by MCP23017 IO Extender
-I2CUI4_V1 module – user Interface I2C keypad with 5-keys, RGB-LED and buzzer for on premise IoT device management. Compatible with Arduino, ESP12.OLED_V1 controllers, NodeMCU board (based on ESP8266-12), modules on the ESP8266EX, ESP32, Raspberry Pi series or other chip, which is powered by a voltage in the range from 1.8 to 5.5 V. Driver support: NodeMCU, Tasmota, ESPHome, Arduino, OpenHab, Blynk, NodeRed, Home Assistant.
+I2CUI4_V1 module – user Interface I2C keypad with 5-keys, RGB-LED and buzzer for on premise IoT device management. Based on MCP23017 IO Extender and compatible with Arduino, ESP12.OLED_V1 controllers, NodeMCU board (based on ESP8266-12), modules on the ESP8266EX, ESP32, Raspberry Pi series or other chip, which is powered by a voltage in the range from 1.8 to 5.5 V. Driver support: NodeMCU, Tasmota, ESPHome, Arduino, OpenHab, Blynk, NodeRed, Home Assistant.
 
 The module connects to the main controller via a 4-wire I2C bus interface and provides the following functions: Data entry with a five-button keyboard (left, right, down, up, OK); Data output to RGB LED; Output of sound sequences to the active indicator of the buzzer type; I2C bus input and output through ports. Input for connection to MCU and output – for connection of any external devices that support the I2C specification.
 
 
+
 | Part Number: I2CUI4_V1 |
 | :-------------: |
-| I2C 5-Key Keypad with RGB LED, Buzzer |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/039990f3-a85a-4289-a92d-48f620ea50f2" alt="I2CUI4_V1 5-Key I2C Keypad with RGB LED and Buzzer image" width="35%" height="auto"><br> |
+| 5-Key I2C Keypad with RGB LED, Buzzer and GPIOs |
 | [Product Page](https://go.iot-devices.com.ua/i2cui4_v1) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/c7d71fad-a475-4a22-b4ea-3569c55be708) |
 | [Tech Drawing](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/4bec5576-2814-49c1-9ef0-227c06a8b746) |
