@@ -35,7 +35,7 @@ This module is useful for creating smart measurement devices for determining the
 
 | Part Number: GGreg20_V3 |
 | :-------------: |
-| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/1327a402-9f11-4790-a386-6cf046d2c6ad" alt="ESP12.OLED_V1 universal MCU board image" width="45%" height="auto"><br> |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/1327a402-9f11-4790-a386-6cf046d2c6ad" alt="ESP12.OLED_V1 universal MCU board image" width="55%" height="auto"><br> |
 | DIY Geiger counter radiation detector |
 | [Product Page](https://go.iot-devices.com.ua/ggreg20_v3) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/6853133f-5816-4ed2-acc1-fe9409e06359) |
@@ -69,6 +69,7 @@ devices for protection against mosquitoes, ozonizers, etc.
 
 | Part Number: DCDC_3V3_400V_V1 |
 | :-------------: |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/d685da87-968b-49e3-905c-73a4dc5fa334" alt="DCDC_3V3_400V_V1 high voltage converter image" width="55%" height="auto"><br> |
 | High voltage converter |
 | [Product Page](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/955460d8-3992-420a-b2cf-366b69064d7b) |
