@@ -106,6 +106,7 @@ Multiple I2CHUB devices can be freely cascaded within the limits allowed by the 
 
 | Part Number: I2CHUB_V1 |
 | :-------------: |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/29eb7470-d9fa-4adb-9064-b0016a432910" alt="I2CHub_V1 I2C Bus 6-port splitter with power supply port image" width="30%" height="auto"><br> |
 | I2C Bus 6-port splitter with power supply port |
 | [Product Page](https://go.iot-devices.com.ua/i2chub_v1) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/955460d8-3992-420a-b2cf-366b69064d7b) |
@@ -116,11 +117,14 @@ Multiple I2CHUB devices can be freely cascaded within the limits allowed by the 
 ## Charity, Technology art and Geek projects
 
 ### GGreg20_ES - epoxy souvenir geiger counter
-GGreg20_ES (souvenir Geiger counter) is an unusual artistic product: on the one hand, it is a built-in DIY electronics, on the other hand, it is a product that is not intended to work. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
+GGreg20_ES (souvenir Geiger counter) is an unusual artistic product: on the one hand, it is a built-in DIY electronics, on the other hand, it is a product that is not intended to work. The coating is a transparent, non-toxic epoxy resin EpoxyTable 5-five from RESIN PRO (Italy) with powerful UV filters. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
+
+No cabling – No soldering – No drivers – No coding
 
 
 | Part Number: GGreg20_ES |
 | :-------------: |
+| <img src="https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/413ba065-9cdf-46ca-95f8-c83271b7bb8a" alt="GGreg20_ES Geiger counter epoxy souvenir and geek gift image" width="80%" height="auto"><br> |
 | Geiger counter epoxy souvenir and geek gift |
 | [Product Page](https://go.iot-devices.com.ua/ggreg20_es) |
 | [Product Card](https://github.com/iotdevicesdev/iotdevicesdev.github.io/assets/96241971/13258775-c1d9-4bed-8190-2337586f7afa) |
